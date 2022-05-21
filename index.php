@@ -69,6 +69,7 @@
         <a href="https://www.instagram.com/aadesh.patil_/"  target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://www.linkedin.com/in/aadesh-patil-3b8474193/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
+      
     </div>
   </section><!-- End Hero -->
 
@@ -288,6 +289,9 @@
         </div>
 
       </div>
+      <div class="my-3 text-center">
+      <button type="button" class="btn btn-info" onclick="='https://doc-0s-4c-docs.googleusercontent.com/docs/securesc/0k4jp5evn638bo7k0412fhhuq6d8r9v6/e5ph45tm60vkhac7ptoaou0ul4q63dfb/1652633325000/06437211064491235543/06437211064491235543/1n4wEzantenpne_dm7OAH_9XUK04ZAqw_?e=download&ax=ACxEAsaUWH1g-CFut9VMPOGKHHfMruqUAGpgqFFOe69kuAcJr44rMG_ztiMzT2mKXz14w_ZEScEaHvf69_P5L7p549m76gGbk0zyfipGNtoRCVtsGPDIkUPM72QKlADChFSlT5aQgqBrUkCpF1YIc4RghnIT8Y4-8aGNCOdxq7eWxylehXZtptoobuC_4VQuh-xpdhaELcu1ep7nudXCvFgmR71djPYzztnrZgLPOkxTGw_sdGZIchCmOyh34f0fGUeDhylAgAKF8CeHOgOCGOgL-qoVdUDEQe2bLmfodJwalBkcxfsZRtXSNpMVitFqlfSqNt-P-WNLEjugC8IXYBZ4WyF6Q8fkDmyrBXJa_EHFbIWA9tPWw6-lpcCzEFfZflPJSRzaosqd3xxubdyOhjl-o1cIQNW8DKB0sgQXqRqE6XYO0lxCXQoHEQYk883HYfwKIkDfHzQzZKmPwpcWzdbxDSel91Gll8FWhIV0a2gjCpkGn_OSUEpuRJWmXKk-JOoB6qYySm9SMbUFDc10teXFWqNzPskEFXSdUHIA51sGmN9vR2IeHjqsY_XmaHotTN9Zj2Xyr_sxmN3cyBlZQKpqUzyWqJI6YjhZUrfL7kByTOvTdaYmz_o8F1rEONELGdePSmHp5btaZNI-_pcwxC4lPLYD_dddVn6eczbD-lSkgmOspv1j_cidMZ5FtvnTp93IIZpKY7erR54f-e9_ccwa9uKr3n3MIAw55teFFC7Dt-UXP8Gkx3TLpH0_t_vVRyIfh9a97-SeGJhAVn6VjDgcGE4&authuser=0'" >Download Resume</button>
+      </div>
     </section><!-- End Resume Section -->
 
     <!-- ======= Skills Section ======= -->
@@ -304,7 +308,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-blue">
               <div class="icon">
-                <img src="/assets/img/skills/java.png" alt="" width="60px" height="60px">
+                <img src="assets/img/skills/java.png" alt="" width="60px" height="60px">
               </div>
               <h4><a href="">JAVA</a></h4>
               <p>Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible</p>
@@ -316,7 +320,7 @@
             data-aos-delay="200">
             <div class="icon-box iconbox-orange ">
               <div class="icon">
-                <img src="/assets/img/skills/python.png" alt="" width="60px" height="60px">
+                <img src="assets/img/skills/python.png" alt="" width="60px" height="60px">
               </div>
               <h4><a href="">Python</a></h4>
               <p>Python is a high-level, interpreted, general-purpose programming language. </p>
@@ -327,7 +331,7 @@
             data-aos-delay="300">
             <div class="icon-box iconbox-pink">
               <div class="icon">
-                <img src="/assets/img/skills/kotlin.png" alt="" width="60px" height="60px">
+                <img src="assets/img/skills/kotlin.png" alt="" width="60px" height="60px">
               </div>
               <h4><a href="">Kotlin</a></h4>
               <p>Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference</p>
@@ -337,7 +341,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-yellow">
               <div class="icon">
-                <img src="/assets/img/skills/angular.png" alt="" width="60px" height="60px">
+                <img src="assets/img/skills/angular.png" alt="" width="60px" height="60px">
               </div>
               <h4><a href="">Angular</a></h4>
               <p>Angular is a TypeScript-based free and open-source web application framework.</p>
@@ -347,7 +351,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box iconbox-red">
               <div class="icon">
-                <img src="/assets/img/skills/spring_boot.png" alt="" width="70px" height="60px">
+                <img src="assets/img/skills/spring_boot.png" alt="" width="70px" height="60px">
               </div>
               <h4><a href=""></a>Spring Boot</h4>
              <p>Spring Boot is an open source, microservice-based Java web framework</p>
@@ -357,7 +361,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box iconbox-teal">
               <div class="icon">
-                <img src="/assets/img/skills/rest_api.png" alt="" width="60px" height="50px">
+                <img src="assets/img/skills/rest_api.png" alt="" width="60px" height="50px">
               </div>
               <h4><a href="">Rest API</a></h4>
               <p>A REST API (also known as RESTful API) is an application programming interface (API or web API) that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services</p>
@@ -400,7 +404,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -416,7 +420,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -432,7 +436,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -448,7 +452,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -464,7 +468,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -480,7 +484,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -496,7 +500,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -512,7 +516,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -528,7 +532,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -616,11 +620,9 @@
       <h3>Aadesh Patil</h3>
       <!-- <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p> -->
       <div class="social-links">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      <a href="mailto:aadeshpatil650@gmail.com" target="_blank" class="facebook"><i class="bx bx-envelope"></i></a>
+        <a href="https://www.instagram.com/aadesh.patil_/"  target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/aadesh-patil-3b8474193/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       <div class="copyright">
         &copy; Copyright. All Rights Reserved
@@ -635,7 +637,9 @@
     </div>
   </footer><!-- End Footer -->
 
-  <div id="preloader"></div>
+  <div id="preloader">
+    
+  </div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
       class="bi bi-arrow-up-short"></i></a>
 
