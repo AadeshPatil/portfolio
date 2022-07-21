@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Aadesh Patil- Index</title>
+  <title>Aadesh Patil- Portfolio</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -26,15 +26,8 @@
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-  <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: MyResume - v4.7.0
-  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -63,12 +56,13 @@
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
       <h1>Aadesh Patil</h1>
-      <p>I'm <span class="typed" data-typed-items="Software Developer"></span></p>
+      <p><span class="typed" data-typed-items="Software Developer"></span></p>
       <div class="social-links">
         <a href="mailto:aadeshpatil650@gmail.com" target="_blank" class="facebook"><i class="bx bx-envelope"></i></a>
         <a href="https://www.instagram.com/aadesh.patil_/"  target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://www.linkedin.com/in/aadesh-patil-3b8474193/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
+      
     </div>
   </section><!-- End Hero -->
 
@@ -81,7 +75,7 @@
         <div class="section-title">
           <h2>About</h2>
           <p>
-            I have just over a year of experience as a junior software engineer with JAVA, ANGULAR & ANDROID.
+            I have just over a year of experience as a Associate Software Developer with JAVA, ANGULAR & ANDROID.
             In my short time there, I've already contributed to over a dozen projects and assisted with managing one
             project for one of the firm's long-time clients.
           </p>
@@ -110,86 +104,17 @@
                   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>aadeshpatil650@gmail.com</span>
                   </li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>https://aadeshpatil.herokuapp.com/</span></li>
                 </ul>
               </div>
             </div>
-            <!-- <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
-            </p> -->
           </div>
         </div>
 
       </div>
     </section><!-- End About Section -->
 
-    <!-- ======= Skills Section ======= -->
-    <!-- <section id="skills" class="skills section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Skills</h2>
-        
-        </div>
-
-        <div class="row skills-content">
-
-          <div class="col-lg-6">
-
-            <div class="progress">
-              <span class="skill">Angular <i class="val">100%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Android <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Java <i class="val">5%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-lg-6">
-
-            <div class="progress">
-              <span class="skill">PHP <i class="val">80%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Skills Section -->
+   
 
     <!-- ======= Resume Section ======= -->
     <section id="resume" class="resume">
@@ -208,7 +133,7 @@
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
               <h4>Aadesh Patil</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 1+ years of experience designing and
+              <p><em>Innovative and deadline-driven Software Developer with 1+ years of experience designing and
                   developing user-centered software from initial concept to final, polished deliverable.</em></p>
               <ul>
                 <li>Pune, Maharastra, India</li>
@@ -218,9 +143,9 @@
             </div>
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>associate Software Developer</h4>
+              <h4>Associate Software Developer</h4>
               <h5>2021 - Present</h5>
-              <p><em>Pune, Maharashtra </em></p>
+              <p> Kleem Research and Marketing<em> (Pune, Maharashtra) </em></p>
               <ul>
                 <li>Built web app for Insurance Case management.</li>
               <li> Use Kotlin to Build Android for Tracking the
@@ -232,11 +157,10 @@
             <div class="resume-item">
               <h4>Bachelors of Computer Applications</h4>
               <h5>2019 - 2022</h5>
-              <p><em>Akurdi, Pimpri-Chinchwad, Maharashtra 411019</em></p>
+              <p>PCCCS <em>(Akurdi, Pimpri-Chinchwad, Maharashtra 411019)</em></p>
               <p>Crossworks:</p>
               <ul>
-                <li>Algorithms</li>
-                <li>Data Structures </li>
+                
                 <li>Databases</li>
                 <li>Operating Systems</li>
                 <li>Object-Oriented
@@ -248,7 +172,7 @@
            
             <h3 class="resume-title">Academic Projects</h3>
             <div class="resume-item">
-              <h4>Face Recognition System basesd desktop Based Application</h4>
+              <h4>Face Recognition System Desktop-Based Application</h4>
               <h5>April, 2021 - June, 2021</h5>
               <p><em>Its an Attendance based facial recognition project which
                 provides paper-free attendance for colleges and company's
@@ -262,9 +186,9 @@
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Cryptography based Web Application</h4>
+              <h4>Cryptography Based Web Application</h4>
               <h5>Dec, 2021 - April, 2022</h5>
-              <p><em>Its an Web application which provides end to end encryption to Messgaes, Image and PDFS.</em></p>
+              <p><em>Its an Web application which provides end to end encryption to Messages, Images and PDFS.</em></p>
               <p>Technology Used</p>
               <ul>
                 <li>Angular</li>
@@ -288,6 +212,9 @@
         </div>
 
       </div>
+      <div class="my-3 text-center">
+      <a type="button" class="btn btn-info" href="assets/resume/AadeshPatil.pdf" target="_blank">Download Resume</a>
+       </div>
     </section><!-- End Resume Section -->
 
     <!-- ======= Skills Section ======= -->
@@ -304,7 +231,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-blue">
               <div class="icon">
-                <img src="/assets/img/skills/java.png" alt="" width="60px" height="60px">
+                <img src="assets/img/skills/java.png" alt="" width="60px" height="60px">
               </div>
               <h4><a href="">JAVA</a></h4>
               <p>Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible</p>
@@ -316,7 +243,7 @@
             data-aos-delay="200">
             <div class="icon-box iconbox-orange ">
               <div class="icon">
-                <img src="/assets/img/skills/python.png" alt="" width="60px" height="60px">
+                <img src="assets/img/skills/python.png" alt="" width="60px" height="60px">
               </div>
               <h4><a href="">Python</a></h4>
               <p>Python is a high-level, interpreted, general-purpose programming language. </p>
@@ -327,7 +254,7 @@
             data-aos-delay="300">
             <div class="icon-box iconbox-pink">
               <div class="icon">
-                <img src="/assets/img/skills/kotlin.png" alt="" width="60px" height="60px">
+                <img src="assets/img/skills/kotlin.png" alt="" width="60px" height="60px">
               </div>
               <h4><a href="">Kotlin</a></h4>
               <p>Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference</p>
@@ -337,7 +264,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-yellow">
               <div class="icon">
-                <img src="/assets/img/skills/angular.png" alt="" width="60px" height="60px">
+                <img src="assets/img/skills/angular.png" alt="" width="60px" height="60px">
               </div>
               <h4><a href="">Angular</a></h4>
               <p>Angular is a TypeScript-based free and open-source web application framework.</p>
@@ -347,7 +274,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box iconbox-red">
               <div class="icon">
-                <img src="/assets/img/skills/spring_boot.png" alt="" width="70px" height="60px">
+                <img src="assets/img/skills/spring_boot.png" alt="" width="80px" height="60px">
               </div>
               <h4><a href=""></a>Spring Boot</h4>
              <p>Spring Boot is an open source, microservice-based Java web framework</p>
@@ -357,7 +284,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box iconbox-teal">
               <div class="icon">
-                <img src="/assets/img/skills/rest_api.png" alt="" width="60px" height="50px">
+                <img src="assets/img/skills/rest_api.png" alt="" width="60px" height="50px">
               </div>
               <h4><a href="">Rest API</a></h4>
               <p>A REST API (also known as RESTful API) is an application programming interface (API or web API) that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services</p>
@@ -398,9 +325,62 @@
                 <h4>Ev Charzing Services</h4>
                 <p>App</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                  
+                  <em>Its an Android App which made for Electric Vehicles Owner to easily find out nearest charging station              </p>
+</em>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/flight-booking.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Flight Booking System</h4>
+                <p>Web</p>
+                <div class="portfolio-links">
+                <em>Its an Web Application for Booking Flight tickets</em>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/cryptography.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Cryptography</h4>
+                <p>web</p>
+                <div class="portfolio-links">
+                <em>Its an Web Application for Sending Data through encryption</em>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/face-rec.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Face Recognition</h4>
+                <p>Desktop</p>
+                <div class="portfolio-links">
+                <em>An Attendance based Face recognition system </em>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/calculator.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Calcultor</h4>
+                <p>Web</p>
+                <div class="portfolio-links">
+                  
+                  <a href="https://calculator-in-html-css-js.netlify.app/" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -409,46 +389,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/fast-food.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
+                <h4>Fast Food Online order</h4>
                 <p>Web</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
-                    title="Portfolio Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
-                    title="Portfolio Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                 
+                  <a href="https://fastfood-store.netlify.app/" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -457,85 +404,18 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/Cafe.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 2</h4>
+                <h4>Cafe Website</h4>
                 <p>Web</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
+                  
+                  <a href="https://cafecreamyheavenn.000webhostapp.com/" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
-                    title="Portfolio Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
-                    title="Portfolio Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
-                    title="Portfolio Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
-                    title="Portfolio Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
 
       </div>
     </section><!-- End Portfolio Section -->
@@ -578,7 +458,7 @@
 
           <div class="col-lg-8 mt-5 mt-lg-0">
 
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <div class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -591,15 +471,16 @@
                 <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="message" id="message" rows="5" placeholder="Message" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
+              <div class="text-center">
+                <button type="submit" onclick="sendMail()">Send Message</button></div>
+            </div>
 
           </div>
 
@@ -616,11 +497,9 @@
       <h3>Aadesh Patil</h3>
       <!-- <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p> -->
       <div class="social-links">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      <a href="mailto:aadeshpatil650@gmail.com" target="_blank" class="facebook"><i class="bx bx-envelope"></i></a>
+        <a href="https://www.instagram.com/aadesh.patil_/"  target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/aadesh-patil-3b8474193/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       <div class="copyright">
         &copy; Copyright. All Rights Reserved
@@ -635,13 +514,13 @@
     </div>
   </footer><!-- End Footer -->
 
-  <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
       class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
@@ -652,6 +531,33 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+
+  <script type="text/javascript">
+        (function () {
+            emailjs.init("A9tXnjbZVZ9ck5mM8");
+        })();
+    </script>
+
+    <script type="text/javascript">
+       function sendMail() {
+        var validRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+        let email = document.getElementById("email").value;
+        if (email.match(validRegex)) {
+          emailjs.send("service_87dendo","template_db45azr",{
+                from_name: document.getElementById("name").value,
+                from_email: document.getElementById("email").value,
+                from_subject: document.getElementById("subject").value,
+                from_message: document.getElementById("message").value,
+                }).then(function (res) {
+                    alert("Inqury has send")
+                }, function (error) {
+                    console.log('FAILED...', error);
+                });
+            }else{
+                alert("Invalid Email Format !")
+            }
+          }
+    </script>
 
 </body>
 
