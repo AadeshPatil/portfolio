@@ -211,6 +211,7 @@
                 <li>Implemented Firebase Messaging Services for showing Notifications to users</li> 
                 <li> Utilized the layout editor to create a UI for the application in order to allow different scenes to interact with each
                   other.</li>
+                  
             </ul>
             </div>
           </div>
