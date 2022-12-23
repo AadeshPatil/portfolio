@@ -1,13 +1,4 @@
-/**
-* Template Name: MyResume - v4.7.0
-* Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -1023,4 +1014,8 @@ section {
 }
 #footer .credits {
   font-size: 13px;
+}
+
+.pp{
+  border-radius: 50%;
 }
