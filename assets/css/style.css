@@ -1,7 +1,8 @@
-
+@import url("https://fonts.googleapis.com/css?family=Baloo+Paaji|Open+Sans:300,300i,400,400i,600,600i,700,700i");
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  
 }
 
 a {
@@ -14,8 +15,14 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+ h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif;
+}
+
+h1{
+  font-family: 'Baloo Paaji', cursive;
+  color: #695aa6;
+  font-size: calc(30px + (75 - 30) * ((100vw - 300px) / (1300 - 300)));
 }
 
 /*--------------------------------------------------------------
@@ -282,7 +289,7 @@ section {
 }
 
 .section-title {
-  text-align: center;
+  text-align: left;
   padding-bottom: 30px;
 }
 .section-title h2 {
@@ -302,7 +309,6 @@ section {
   height: 1px;
   background: #ddd;
   bottom: 1px;
-  left: calc(50% - 60px);
 }
 .section-title h2::after {
   content: "";
@@ -312,7 +318,6 @@ section {
   height: 3px;
   background: #0563bb;
   bottom: 0;
-  left: calc(50% - 20px);
 }
 .section-title p {
   margin-bottom: 0;
@@ -672,7 +677,7 @@ section {
   text-align: center;
   padding: 70px 20px 80px 20px;
   transition: all ease-in-out 0.3s;
-  background: #fff;
+  background: #e8e8f18c;
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);
 }
 .services .icon-box .icon {
@@ -1017,5 +1022,9 @@ section {
 }
 
 .pp{
-  border-radius: 50%;
+  border-radius: 30%;
+}
+.img-fluid1 {
+  max-width: 70%;
+  height: auto;
 }
