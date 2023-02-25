@@ -17,7 +17,11 @@
   <link
     href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
     rel="stylesheet">
+  <link rel="stylesheet" type="text/css"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 
+  <link rel="stylesheet"
+    href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css" />
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -27,6 +31,15 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <link href="assets/css/style.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+
 
 </head>
 
@@ -221,83 +234,37 @@
 
       <!-- ======= Skills Section ======= -->
       <section id="services" class="services">
-        <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>Skills </h2>
+          <p>
+          </p>
+        </div>
+        <div class="wrapper image-wrapper">
+          <div class="container inner">
+            <div class="row">
+              <div class="col-md-10 offset-md-1">
+                <div class="row text-center">
+                  <div class="col-lg-3">
+                    <div class="progressbar circle blue" data-value="95"></div>
+                    <h5>Backend</h5>
+                    <p>Spring Boot, Spring MVC, Java, Kotlin</p>
+                  </div>
 
-          <div class="section-title">
-            <h2>Skills</h2>
+                  <div class="col-lg-3">
+                    <div class="progressbar circle green" data-value="90"></div>
+                    <h5>Frontend</h5>
+                    <p>Angular, React, Html, Css, Bootstrap</p>
+                  </div>
 
+                  <div class="col-lg-3">
+                    <div class="progressbar circle red" data-value="80"></div>
+                    <h5>Database</h5>
+                    <p>Mysql, Sql, Neo4j, Mangodb</p>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
-
-          <div class="row">
-
-
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-              <div class="icon-box iconbox-yellow">
-                <div class="icon">
-                  <img src="assets/img/skills/angular.png" alt="" width="60px" height="60px">
-                </div>
-                <h4><a href="">Angular</a></h4>
-                <p>Angular is a TypeScript-based free and open-source web application framework.</p>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-              <div class="icon-box iconbox-red">
-                <div class="icon">
-                  <img src="assets/img/skills/spring_boot.png" alt="" width="100px" height="60px">
-                </div>
-                <h4><a href=""></a>Spring Boot</h4>
-                <p>Spring Boot is an open source, microservice-based Java web framework</p>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-              <div class="icon-box iconbox-teal">
-                <div class="icon">
-                  <img src="assets/img/skills/rest_api.png" alt="" width="60px" height="50px">
-                </div>
-                <h4><a href="">Rest API</a></h4>
-                <p>A REST API is help to communicate with back-end to front-end</p>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch " data-aos="zoom-in" data-aos-delay="100">
-              <div class="icon-box iconbox-blue">
-                <div class="icon">
-                  <img src="assets/img/skills/java.png" alt="" width="60px" height="60px">
-                </div>
-                <h4><a href="">JAVA</a></h4>
-                <p>Java is a high-level, class-based, object-oriented programming language that is designed to have as
-                  few implementation dependencies as possible</p>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
-              data-aos-delay="200">
-              <div class="icon-box iconbox-orange ">
-                <div class="icon">
-                  <img src="assets/img/skills/python.png" alt="" width="60px" height="60px">
-                </div>
-                <h4><a href="">Python</a></h4>
-                <p>Python is a high-level, interpreted, general-purpose programming language. </p>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
-              data-aos-delay="300">
-              <div class="icon-box iconbox-pink">
-                <div class="icon">
-                  <img src="assets/img/skills/kotlin.png" alt="" width="60px" height="60px">
-                </div>
-                <h4><a href="">Kotlin</a></h4>
-                <p>Kotlin is a cross-platform, statically typed, general-purpose programming language with type
-                  inference</p>
-              </div>
-            </div>
-
-
-
-
-
-          </div>
-
         </div>
       </section><!-- End Services Section -->
 
@@ -539,10 +506,8 @@
   <script src="assets/vendor/typed.js/typed.min.js"></script>
   <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
-
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
   <script type="text/javascript">
     (function () {
       emailjs.init("A9tXnjbZVZ9ck5mM8");
@@ -570,6 +535,94 @@
       }
     }
   </script>
+
+
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+
+  <script src="assets/js/progressbar.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
+
+
+
+  <script>
+    $(document).ready(function () {
+      'use strict';
+
+
+      var $pline = $('.progressbar.line');
+      var $pcircle = $('.progressbar.circle');
+      $pline.each(function (i) {
+        var line = new ProgressBar.Line(this, {
+          strokeWidth: 6,
+          trailWidth: 6,
+          duration: 3000,
+          easing: 'easeInOut',
+          text: {
+            style: {
+              color: 'inherit',
+              position: 'absolute',
+              right: '0',
+              top: '-30px',
+              padding: 0,
+              margin: 0,
+              transform: null
+            },
+            autoStyleContainer: false
+          },
+          step: function (state, line, attachment) {
+            line.setText(Math.round(line.value() * 100) + ' %');
+          }
+        });
+        var value = ($(this).attr('data-value') / 100);
+        $pline.waypoint(function () {
+          line.animate(value);
+        }, {
+          offset: "100%"
+        })
+      });
+      $pcircle.each(function (i) {
+        var circle = new ProgressBar.SemiCircle(this, {
+          strokeWidth: 5,
+          trailWidth: 5,
+          duration: 2000,
+          easing: 'easeInOut',
+          step: function (state, circle, attachment) {
+            circle.setText(Math.round(circle.value() * 100));
+          }
+        });
+        var value = ($(this).attr('data-value') / 100);
+        $pcircle.waypoint(function () {
+          circle.animate(value);
+        }, {
+          offset: "100%"
+        })
+      });
+
+      $('.counter .value').counterUp({
+        delay: 50,
+        time: 1000
+      });
+
+      $(".countdown").countdown();
+
+
+    });
+
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
   <script src="//code.tidio.co/yczybhe794jdpifcdjdhgla7fszspdlp.js" async></script>
 </body>
 
