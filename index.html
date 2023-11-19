@@ -117,9 +117,8 @@
             <div class="col-lg-8 pt-4 pt-lg-0 content">
               <div class="section-title">
                 <h2>About</h2>
-                <p>I have over 1.8 years of experience as a software engineer. My expertise lies in Java, Spring &
-                  Spring Boot Framework, Microservice Architecture, Cloud Technologies like Azure, Relational Databases
-                  like Hibernate & MySQL, as well as UI technologies like Javascript & Angular.</p>
+                <p id="experience"></p>
+
               </div>
               <p class="fst-italic">
                 Personal Details
@@ -181,12 +180,18 @@
               </div>
               <h3 class="resume-title">Professional Experience</h3>
               <div class="resume-item">
+                <h4>SDE-1</h4>
+                <p>
+                <h5>App-Scoop Solutions<em> (Pune, Maharashtra) </em></h5>
+                <h5>May 2023 - Present</h5>
+                </p>
+              </div>
+              <div class="resume-item">
                 <h4>Backend Developer</h4>
                 <p>
                 <h5>Zerot Energy<em> (Pune, Maharashtra) </em></h5>
-                <h5>Jan 2023 - Present</h5>
+                <h5>Jan 2023 - April 2023</h5>
                 </p>
-
               </div>
               <div class="resume-item">
                 <h4>Associate Software Developer</h4>
@@ -211,6 +216,13 @@
             <div class="col-lg-6">
 
               <h3 class="resume-title">Education</h3>
+            
+              <div class="resume-item">
+                <h4>Msc(Computer Applications) (distance learning)</h4>
+                <h5>2023 - Present</h5>
+                <p>Symbiosis School for Online and Digital Learning <em>(Pune, Maharashtra)</em></p>
+          
+              </div>
               <div class="resume-item">
                 <h4>Bachelors of Computer Applications</h4>
                 <h5>2019 - 2022</h5>
@@ -253,13 +265,13 @@
                   <div class="col-lg-3">
                     <div class="progressbar circle green" data-value="90"></div>
                     <h5>Frontend</h5>
-                    <p>Angular, React, Html, Css, Bootstrap</p>
+                    <p>Angular, Html, Css, Javascript, Bootstrap</p>
                   </div>
 
                   <div class="col-lg-3">
                     <div class="progressbar circle red" data-value="80"></div>
                     <h5>Database</h5>
-                    <p>Mysql, Sql, Neo4j, Mangodb</p>
+                    <p>Mysql, Sql, Neo4j, Mangodb, Postgres</p>
                   </div>
                 </div>
               </div>
@@ -611,17 +623,26 @@
 
   </script>
 
+<script>
+  function calculateExperience(startDate) {
+    const currentDate = new Date();
+    const start = new Date(startDate);
+    
+    const yearDiff = currentDate.getFullYear() - start.getFullYear();
+    const monthDiff = currentDate.getMonth() - start.getMonth();
+    
+    const yearsExperience = yearDiff + (monthDiff / 12);
+    
+    return yearsExperience.toFixed(1);
+  }
 
+  // Usage example
+  const startDate = 'June 1, 2021';
+  const experience = calculateExperience(startDate);
 
-
-
-
-
-
-
-
-
-
+  // Update the paragraph text with the calculated experience
+  document.getElementById('experience').textContent = `I have over ${experience} years of experience as a software engineer. My expertise lies in Java, Spring & Spring Boot Framework, Microservice Architecture, Cloud Technologies like Azure, Aws, Databases like MySQL, Postgres, MongoDB, as well as UI technologies like Javascript ,TypeScript & Angular.`;
+</script>
 
   <script src="//code.tidio.co/yczybhe794jdpifcdjdhgla7fszspdlp.js" async></script>
 </body>

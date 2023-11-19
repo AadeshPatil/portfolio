@@ -1174,7 +1174,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #0563bb;
+  background: #b0d3f5;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1232,7 +1232,6 @@ section {
   padding: 0;
   list-style: none;
 }
-
 .progress-list li .line {
   position: relative;
 }
