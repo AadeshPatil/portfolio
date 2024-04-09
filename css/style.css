@@ -578,6 +578,18 @@ pre code {
   overflow-y: scroll;
 }
 
+.sub-container {
+  justify-content: flex-start;
+}
+
+@media (max-width: 992px) {
+  .sub-container {
+    justify-content: center;
+    text-align: center;
+  }
+
+}
+
 .container {
   width: 100%;
   padding-right: 15px;
@@ -601,7 +613,9 @@ pre code {
 @media (min-width: 992px) {
   .container {
     max-width: 960px;
+
   }
+
 }
 
 @media (min-width: 1200px) {
@@ -12252,10 +12266,10 @@ h5,
   }
 }
 
-.owl-carousel.home-slider .slider-item .slider-text .subheading {
+.subheading {
   color: #000000;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 20px;
   letter-spacing: 3px;
   text-transform: uppercase;
   color: #ffbd39;
@@ -12266,14 +12280,14 @@ h5,
   z-index: 1;
 }
 
-.owl-carousel.home-slider .slider-item .slider-text h1 {
+.text h1 {
   font-size: 60px;
   color: #fff;
   line-height: 1.2;
   font-weight: 800;
 }
 
-.owl-carousel.home-slider .slider-item .slider-text h1 span {
+.text h1 span {
   font-weight: 800;
   color: #ffbd39;
 }
@@ -13937,10 +13951,90 @@ textarea.form-control {
 .progressbar-label {
   background: transparent;
   padding: 10px;
-  width: 75%;
-  margin: 0 auto;
+  width: 150px;
+  margin: 15px auto 20px auto;
   border-radius: 50px;
   border: 2px solid #ebebeb;
   font-size: 17px;
   color: #fff;
+}
+
+.progressbar-text {
+  font-size: 40px;
+  position: absolute;
+  left: 50%;
+  top: auto;
+  padding: 0px;
+  margin: 0px;
+  transform: translate(-50%, 0px);
+  color: rgb(255, 255, 255);
+  bottom: 15px;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.anim-typewriter {
+  width: auto;
+  margin: 20px 0;
+  border-right: 2px solid rgba(255, 255, 255, .75);
+  font-size: 180%;
+  text-align: start;
+  white-space: nowrap;
+  overflow: hidden;
+  transform: translateY(-50%);
+  animation: typewriter 1.5s steps(25) 1.5s 1 normal both,
+    blinkTextCursor 600ms steps(25) infinite normal;
+}
+
+@media (max-width: 992px) {
+  .anim-typewriter {
+    margin: 20px auto;
+    text-align: start
+  }
+
+
+  .progressbar {
+    transform: scale(0.5);
+  }
+
+  .progressbar-text {
+    font-size: 81px;
+    bottom: 10px;
+  }
+
+  .progressbar-label {
+    margin-top: -40px;
+  }
+}
+
+@media (max-width: 500px) {
+  .progressbar {
+    transform: scale(0.75);
+  }
+  .progressbar-text {
+    font-size: 50px;
+  }
+  .progressbar-label {
+    margin-top: -10px;
+  }
+}
+
+@keyframes typewriter {
+  from {
+    width: 0;
+  }
+
+  to {
+    width: 300px;
+  }
+}
+
+@keyframes blinkTextCursor {
+  from {
+    border-right-color: rgba(255, 255, 255, .75);
+  }
+
+  to {
+    border-right-color: transparent;
+  }
 }
